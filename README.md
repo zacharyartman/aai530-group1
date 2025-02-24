@@ -1,4 +1,5 @@
 # AAI-530-group1
+## Zach Artman, Iman Hamdan, Diego Acevedo
 # Smart Indoor Air Quality Monitoring System 🌍💨
 
 ## 📌 Introduction
@@ -15,10 +16,7 @@ This project, **Smart Indoor Air Quality Monitoring System**, leverages **IoT (I
 - **Scalability & Deployment**: Build an easily adaptable system that can be implemented in various settings, such as smart homes, workplaces, and healthcare facilities.
 
 ### 🛠 Technologies Used
-This project integrates multiple technologies to ensure accuracy, scalability, and ease of use:
-- **IoT Sensors**: Collect real-time environmental data.
 - **Python & Machine Learning**: Data processing, feature engineering, predictive modeling.
-- **Flask** *(Optional)*: API and local deployment.
 - **Tableau Public**: Data visualization and analytics dashboard.
 
 ### 💡 Why This Matters?
@@ -27,8 +25,6 @@ According to research, **indoor air pollution is often 2-5 times worse than outd
 ## 🏗 IoT System Design
 
 Our IoT framework consists of:
-- **Sensors**: Collect real-time air quality data (CO2, PM2.5, temperature, humidity).
-- **Cloud Storage**: Stores sensor data for processing.
 - **Machine Learning Models**: Predict air quality trends and detect anomalies.
 - **Dashboard**: Displays insights through interactive visualizations.
 
@@ -40,17 +36,6 @@ We use the **[Indoor Air Quality Dataset](https://www.kaggle.com/datasets/hemant
 - Timestamped air quality readings.
 - Sensor data such as CO2 levels, PM2.5, humidity, and temperature.
 
-📌 *[Include a table describing the dataset columns here]*
-
-## 🔍 Data Preprocessing & EDA
-
-To prepare the dataset for analysis:
-1. **Missing Values**: Handled using interpolation techniques.
-2. **Outliers Removal**: Detected using statistical methods.
-3. **Feature Engineering**: Created additional time-based features.
-
-📌 *[Include sample EDA plots if possible]*
-
 ## 🤖 Machine Learning Models
 
 We implemented various machine learning models:
@@ -58,8 +43,6 @@ We implemented various machine learning models:
 2. **Clustering**: k-means to group different air quality levels.
 3. **Anomaly Detection**: Isolation Forest for detecting abnormal pollutant spikes.
 4. **Time-Series Forecasting**: ARIMA and LSTM models for future air quality predictions.
-
-📌 *[Include results and evaluation metrics here]*
 
 ## 📈 Visualization (Tableau Dashboard)
 
@@ -69,14 +52,9 @@ The interactive dashboard visualizes:
 - Anomaly detection alerts.
 - Model predictions.
 
-🔗 **View the Dashboard:** [Tableau Public Link Here]
-
-📌 *[Attach sample screenshots of the dashboard]*
+🔗 **View the Dashboard:** [[Link](https://public.tableau.com/views/finalproject_17397525860630/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🎓 Acknowledgments
 

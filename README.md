@@ -51,7 +51,7 @@ The interactive dashboard visualizes:
 - Anomaly detection alerts.
 - Model predictions.
 
-🔗 **View the Dashboard:** [[Link](https://public.tableau.com/views/finalproject_17397525860630/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+🔗 **View the Dashboard:** [[Link](https://public.tableau.com/views/AAI530-Group1/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 
 

@@ -2,6 +2,7 @@
 ## Zach Artman, Iman Hamdan, Diego Acevedo
 # Smart Indoor Air Quality Monitoring System 🌍💨
 
+## Note: in The models are located in **[`main.ipynb`](/main.ipynb)**
 ## 📌 Introduction
 
 Indoor air quality (IAQ) plays a crucial role in public health, well-being, and productivity. Poor air quality can lead to respiratory illnesses, reduced cognitive function, and an increased risk of chronic diseases. However, monitoring and predicting IAQ in real-time remains a challenge, especially in enclosed spaces like homes, offices, and industrial buildings.

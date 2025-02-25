@@ -29,8 +29,6 @@ Our IoT framework consists of:
 - **Machine Learning Models**: Predict air quality trends and detect anomalies.
 - **Dashboard**: Displays insights through interactive visualizations.
 
-📌 *[Include the IoT system architecture diagram here]*
-
 ## 📊 Dataset
 
 We use the **[Indoor Air Quality Dataset](https://www.kaggle.com/datasets/hemanthkarnati/indoor-air-quality-dataset)** from Kaggle. The dataset includes:
